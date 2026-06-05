@@ -40,7 +40,7 @@ MES-Complaint-System/
 ├── docs/screenshots/    # Application screenshots
 ├── .vscode/             # IDE settings
 ├── .gitignore
-└── README.md
+
 ```
 
 ## System Architecture
